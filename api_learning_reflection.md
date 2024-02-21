@@ -69,45 +69,39 @@ Your submission will be assessed on:
 
 ### Your Chosen Terms
 
-**Term/Concept 1:** _______________  
 
-**Definition:** [I will write the definition in my own words]  
 
-**My Understanding (Rate 1-5):** [1 = Not clear, 5 = Very clear]  
+**Term/Concept 1:** Interface
+**Definition:** In a computer system, the interface is a shared boundary that facilitates the exchange of information between its various components, including software, hardware, peripherals, and humans.   
+**My Understanding (Rate 1-5):** 4  
+**Example/Application:** the tv remote
+**Term/Concept 2:** API (Application Programming Interface)   
+**Definition:** APIs are communication rules between two applications. They determine the requests, method, data, and conventions to be followed. 
+**My Understanding (Rate 1-5):** 4
+**Example/Application:** Weather APIs
 
-**Example/Application:** [I will provide an example or explain how this term/concept is applied]
 
-**Term/Concept 2:** _______________  
 
-**Definition:** [I will write the definition in my own words]  
+**Term/Concept 3:** Remote (Web) APIs  
+**Definition:** Web APIs, or web services, allow software applications to communicate over the internet. They facilitate interactions between systems or devices and web servers, enabling seamless integration between different applications for a variety of purposes.
+**My Understanding (Rate 1-5):** 4 
+**Example/Application:** Twitter API
 
-**My Understanding (Rate 1-5):** [1 = Not clear, 5 = Very clear]  
 
-**Example/Application:** [I will provide an example or explain how this term/concept is applied]
 
-**Term/Concept 3:** _______________  
+**Term/Concept 4:** Curl  
+**Definition:** Curl, which stands for "Client URL," developers can use Curl, a versatile command-line tool and library, to transfer data across various network protocols from HTTP and HTTPS to FTP and more. It also serves as a bridge between different systems. 
+**My Understanding (Rate 1-5):** 4
+**Example/Application:** Uploading files
 
-**Definition:** [I will write the definition in my own words]  
 
-**My Understanding (Rate 1-5):** [1 = Not clear, 5 = Very clear]  
+**Term/Concept 5:** Command-Line API Interaction  
 
-**Example/Application:** [I will provide an example or explain how this term/concept is applied]
+**Definition:** The command line interface is an essential tool for interacting with a computer through command inputs. It is the most straightforward way to test and interact with APIs, making it a crucial tool for developers and programmers. 
 
-**Term/Concept 4:** _______________  
+**My Understanding (Rate 1-5):** 4
 
-**Definition:** [I will write the definition in my own words]  
-
-**My Understanding (Rate 1-5):** [1 = Not clear, 5 = Very clear]  
-
-**Example/Application:** [I will provide an example or explain how this term/concept is applied]
-
-**Term/Concept 5:** _______________  
-
-**Definition:** [I will write the definition in my own words]  
-
-**My Understanding (Rate 1-5):** [1 = Not clear, 5 = Very clear]  
-
-**Example/Application:** [I will provide an example or explain how this term/concept is applied]
+**Example/Application:** Implement API Authentication Which Ensures secure access to APIs by using authentication techniques such as API keys or Basic Auth.
 
 ## Part 2: Self-Assessment Checklists
 
